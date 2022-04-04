@@ -28,7 +28,7 @@ Candidate Votes:
 
 ---
 Here is a screenshot of the output data based on the script that was run as it is viewed through VS Code:
-
+![Election Result.PNG](https://github.com/RyanJL18/Election-Analysis/blob/main/Election%20Results.PNG)
 
 ## Election-Audit Conclusion
 This script is very versatile and offers the ability to find out more information about any type of voting based system. You could even adapt it to work for things such as surveys or polls of a population. Specifically looking at it through the lense of different elections however, you can add additional districts or even use it for state or federal elections.
